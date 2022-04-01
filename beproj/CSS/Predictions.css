@@ -1,0 +1,93 @@
+.textOverImage{
+        position: relative;
+        width: 245px;
+        height: 245px;
+        float: left;
+        margin-top: 2.6%;
+        
+        margin-right: 2.6%;
+        background-size: 100%;
+        background-position: center;
+        transition: 0.5s;
+    }
+
+#algo1{
+    position: relative;
+        width: 245px;
+        height: 245px;
+        float: left;
+        margin-left: 6.6%;
+       
+        background-size: 100%;
+}
+
+.algorithm{
+    position: relative;
+        width: 245px;
+        height: 245px;
+        float: left;
+        margin-left: 4.2%;
+        margin-right: 2.6%;
+        background-size: 100%;
+}
+
+#algo2{
+    position: relative;
+        width: 245px;
+        height: 245px;
+        float: left;
+        background-size: 100%;
+     
+}
+
+    .textOverImage:hover{
+        background-size: 120%;
+    }
+    
+    .textOverImage:after{
+        position: absolute;
+        top: 92%;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        font-size: 1.2em;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        overflow: hidden;
+        background-color: rgba(0,0,0,0.3);
+        color: aliceblue;
+        padding:0 8px;
+        content: attr(data-text);
+        transition: 0.5s;
+    }
+    
+    .textOverImage:hover:after{
+        top: 0;
+        padding: 8px;
+        background-color: rgba(0,0,0,0.6);
+    }
+    
+    .textOverImage:first-line{
+        color: aliceblue;
+        font-weight: bold;
+        font-size: 1.6em;
+        
+    }
+    
+    .Category{
+            margin: 0 auto;
+            text-shadow: 2px 2px 15px cyan;
+            animation-name: marquee;
+            animation-duration: 3s;
+            animation-iteration-count:1;
+            animation-direction:normal;
+    }
+    @keyframes marquee{
+                from{
+                    transform: translateX(-100%);
+                }
+                to{
+                    transform: translateX(0%);
+                    border-radius: 50%;
+                }
+            }
