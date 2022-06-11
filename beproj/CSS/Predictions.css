@@ -1,10 +1,10 @@
-.textOverImage{
+    .textOverImage{
         position: relative;
         width: 245px;
         height: 245px;
         float: left;
         margin-top: 2.6%;
-        
+        margin-left: 2.6%;
         margin-right: 2.6%;
         background-size: 100%;
         background-position: center;
@@ -39,7 +39,7 @@
         background-size: 100%;
      
 }
-
+    
     .textOverImage:hover{
         background-size: 120%;
     }
