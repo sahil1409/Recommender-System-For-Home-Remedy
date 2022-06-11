@@ -23,11 +23,7 @@
             Fiber: 4.6 grams
             Fat: 0.1 grams
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2>Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart">ADD TO CART</button>
-        <button class="buy">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://4.imimg.com/data4/SD/VN/MY-10055970/fresh-cranberry-500x500.jpg");'></div>
 </body>
 </html>

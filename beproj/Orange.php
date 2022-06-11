@@ -26,11 +26,7 @@
             Fiber: 2.4 grams
             Fat: 0.1 grams
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#B87333">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #FF7518; border-color: #8B4000;">ADD TO CART</button>
-        <button class="buy" style="background-color: #FF7518; border-color: #8B4000;">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://5.imimg.com/data5/VN/YP/MY-33296037/orange-600x600-500x500.jpg");'></div>
 </body>
 </html>

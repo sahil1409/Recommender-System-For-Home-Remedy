@@ -29,11 +29,7 @@
             Add to air fresheners
             Add to body oils and moisturizers
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#814141">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #D27D2D; border-color: #5C4033;">ADD TO CART</button>
-        <button class="buy" style="background-color: #D27D2D; border-color: #5C4033;">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://www.bigbasket.com/media/uploads/p/l/800172226_2-dry-fruit-house-cinnamon-round.jpg");'></div>
 </body>
 </html>

@@ -28,11 +28,7 @@
             Fiber: 0.06 grams
             Decent amounts of calcium, copper, potassium, phosphorus, iron and vitamin B1
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#696969">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #808080; border-color: #808080;">ADD TO CART</button>
-        <button class="buy" style="background-color: #808080; border-color: #808080;">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://5.imimg.com/data5/NY/RJ/PF/SELLER-52971039/deshi-garlic-5-kg-500x500.jpg");'></div>
 </body>
 </html>

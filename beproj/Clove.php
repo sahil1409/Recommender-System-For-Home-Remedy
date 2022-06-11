@@ -30,11 +30,7 @@
             to 1 cup (250 mL) of boiling water and steep for 5–10 minutes. Due to reports of side
             effects with 5 cups (1.2 liters) per day, it’s best to limit your daily intake to 1–3 cups
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#814141">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #D27D2D; border-color: #5C4033;">ADD TO CART</button>
-        <button class="buy" style="background-color: #D27D2D; border-color: #5C4033;">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://m.media-amazon.com/images/I/51WjHNctl4L.jpg");'></div>
 </body>
 </html>

@@ -20,11 +20,7 @@
             Potassium: 6% of the RDI
             Vitamin K: 5% of the RDI
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2>Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart">ADD TO CART</button>
-        <button class="buy">BUY NOW</button>
-    </div>
+    
     <div class="textOverImage" style='background-image: url("https://5.imimg.com/data5/LM/DU/MY-22954806/apple-fruit-500x500.jpg");'></div>
 </body>
 </html>

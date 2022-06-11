@@ -30,11 +30,7 @@
             For Indigestion: Add 1 teaspoon (tsp) of lemon balm powder to a bowl of ice cream
             or smoothie and enjoy.
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#4F7942">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #4CBB17; border-color: #355E3B;">ADD TO CART</button>
-        <button class="buy" style="background-color: #4CBB17; border-color: #355E3B;">BUY NOW</button>
-    </div>
+
     <div class="textOverImage" style='background-image: url("https://cpimg.tistatic.com/07060042/b/4/Lemon-Balm-Extract.jpg");'></div>
 </body>
 </html>

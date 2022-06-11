@@ -25,11 +25,7 @@
             Fiber: 3 g (12 percent DV)
             Sugar: 6 g
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#814141">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #D27D2D; border-color: #5C4033;">ADD TO CART</button>
-        <button class="buy" style="background-color: #D27D2D; border-color: #5C4033;">BUY NOW</button>
-    </div>
+    
     <div class="textOverImage" style='background-image: url("https://www.luluhypermarket.com/medias/627212-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMjg1OTB8aW1hZ2UvanBlZ3xoMzEvaGVlLzEwODExNDc0OTY4NjA2LzYyNzIxMi0wMS5qcGdfMTIwMFd4MTIwMEh8MjZkYmQ3YjU5NDk0MjI2ODc1OWE1YWZiNGU0OGNjOTYwZGY5NTQwN2FkNTcxZjUxZmFiZDI0YmNiYzE0ZmJkNw");'></div>
 </body>
 </html>

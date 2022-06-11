@@ -30,11 +30,7 @@
             Copper: 2% of the RDI
             Manganese: 2% of the RDI
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#483248">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #9F2B68; border-color: #702963;">ADD TO CART</button>
-        <button class="buy" style="background-color: #9F2B68; border-color: #702963;">BUY NOW</button>
-    </div>
+    
     <div class="textOverImage" style='background-image: url("https://5.imimg.com/data5/YD/FE/PA/SELLER-91751659/black-jamun-500x500.jpg");'></div>
 </body>
 </html>

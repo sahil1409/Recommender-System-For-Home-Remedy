@@ -30,7 +30,7 @@
 <body>
     <div id="buttons">
         <a href="hospitals.py"><button class="hospitals">Hospitals</button></a>
-        <button class="logout">Logout</button>
+        <a href="Login.php"><button class="logout">Logout</button></a>
     </div>
     <div>
         <q id="quote"><b>We are here to make you feel better.</b></q>

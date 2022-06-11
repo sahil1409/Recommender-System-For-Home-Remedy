@@ -24,11 +24,7 @@
             Fiber: 0.4 grams
             Fat: 0.2 grams
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2>Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart">ADD TO CART</button>
-        <button class="buy">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://tiimg.tistatic.com/fp/1/005/716/highly-fresh-nutritious-watermelon-938.jpg");'></div>
 </body>
 </html>

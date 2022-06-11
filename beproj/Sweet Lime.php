@@ -25,11 +25,7 @@
             Protein : 1g
             Total Fat: 1g
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#8B8000">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #F4C430; border-color: #AD8900;">ADD TO CART</button>
-        <button class="buy" style="background-color: #F4C430; border-color: #AD8900;">BUY NOW</button>
-    </div>
+    
     <div class="textOverImage" style='background-image: url("https://5.imimg.com/data5/UH/DE/MY-68428614/sweet-lime-500x500.jpg");'></div>
 </body>
 </html>

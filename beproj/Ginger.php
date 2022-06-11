@@ -22,11 +22,7 @@
             of surgery. Ginger may play a role in weight loss, according to studies conducted
             in humans and animals. Ginger also helps in curing Vertigo, Morning Sickness.
        </pre><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#814141">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #D27D2D; border-color: #5C4033;">ADD TO CART</button>
-        <button class="buy" style="background-color: #D27D2D; border-color: #5C4033;">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://5.imimg.com/data5/FL/NJ/SC/SELLER-85819936/dried-ginger-500x500.jpg");'></div>
 </body>
 </html>

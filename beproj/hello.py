@@ -362,34 +362,35 @@ accc3 = int(acc3*100)
 accc4 = int(acc4*100)
 s = '%'
 
-if(accc1 >= 70):
+maximum = max(accc1, accc2, accc3, accc4)
+
+if(maximum == accc1):
     r1 = "Strongly Recommended"
 else:
-    r1 = "Recommended"
+    r1 = ""
 
-if(accc2 >= 70):
+if(maximum == accc2):
     r2 = "Strongly Recommended"
 else:
-    r2 = "Recommended"
+    r2 = ""
     
-if(accc3 >= 70):
+if(maximum == accc3):
     r3 = "Strongly Recommended"
 else:
-    r3 = "Recommended"
+    r3 = ""
     
-if(accc4 >= 70):
+if(maximum == accc4):
     r4 = "Strongly Recommended"
 else:
-    r4 = "Recommended"
+    r4 = ""
 
-print("<div id='algo1'><h2></h2><progress style='position:absolute; left: 5px;' value='%f' max='1'></progress><br><h3>%s %d %s</h3></div>" %(acc1, r1, accc1, s))
+print("<div id='algo1'><h2 style='position:absolute; left:-60px;'>Recommendation 1 (%d%s)</h2><progress style='position:absolute; left:-10px; top: 80px;' value='%f' max='1'></progress><br><h2 style='position:absolute; left:-52px; top: 110px;'>%s</div>" %(accc1, s, acc1, r1))
 
-print("<div class='algorithm'><h2></h2><progress style='position:absolute; left: 50px;' value='%f' max='1'></progress><br><h3>%s %d %s</h3></div>" % (acc2, r2, accc2, s))
+print("<div class='algorithm'><h2 style='position:absolute; left:-47px;'>Recommendation 2 (%d%s)</h2><progress style='position:absolute; left:0px; top: 80px' value='%f' max='1'></progress><br><h2 style='position:absolute; left:-38px; top: 110px;'>%s</div>" % (accc2, s, acc2, r2))
 
-print("<div class='algorithm'><h2></h2><progress style='position:absolute; left: 50px;' value='%f' max='1'></progress><br><h3>%s %d %s</h3></div>" % (acc3, r3, accc3, s))
+print("<div class='algorithm'><h2 style='position:absolute; left:-67px;'>Recommendation 3 (%d%s)</h2><progress style='position:absolute; left:-10px; top: 80px' value='%f' max='1'></progress><br><h2 style='position:absolute; left:-59px; top: 110px;'>%s</div>" % (accc3, s, acc3, r3))
 
-print("<div id='algo2'><h2></h2><progress style='position:absolute; left: 130px;' value='%f' max='1'></progress><br><h3 style='position: relative; left: 125px'>%s %d %s</h3></div>" % (acc4, r4, accc4, s))
-
+print("<div id='algo2'><h2 style='position:absolute; left:-33px;'>Recommendation 4 (%d%s)</h2><progress style='position:absolute; left:18px; top: 80px' value='%f' max='1'></progress><br><h2 style='position:absolute; left:-26px; top: 110px;'>%s</div>" % (accc4, s, acc4, r4))
 
 print("</body></html>")
 

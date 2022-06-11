@@ -26,11 +26,7 @@
             Turmeric can be taken in doses of 500 mg twice daily to reduce pain, inflammation.
             Turmeric are easy to add to the diet and are available in fresh, dried, or supplement form.
        </pre><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <h2 style="color:#8B8000">Price: 100</h2><br><br>
-    <div id="buttons">
-        <button class="cart" style="background-color: #F4C430; border-color: #AD8900;">ADD TO CART</button>
-        <button class="buy" style="background-color: #F4C430; border-color: #AD8900;">BUY NOW</button>
-    </div>
+   
     <div class="textOverImage" style='background-image: url("https://m.media-amazon.com/images/I/51AFmTaERvL.jpg");'></div>
 </body>
 </html>
